@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DroneProj/Menu.unity
+    guid: ecfdc5116404129468c62c2cd354041d
+  - enabled: 1
+    path: Assets/DroneProj/DroneProj.unity
+    guid: 0e31efba21c1f8048bae8aad16b4e65b
+  m_configObjects: {}
